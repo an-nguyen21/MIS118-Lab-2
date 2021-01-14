@@ -1,0 +1,9 @@
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\bin\Debug\1.2.exe.config
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\bin\Debug\1.2.exe
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\bin\Debug\1.2.pdb
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\obj\Debug\_1._2.FrmArithmetic.resources
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\obj\Debug\_1._2.Properties.Resources.resources
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\obj\Debug\1.2.csproj.GenerateResource.Cache
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\obj\Debug\1.2.exe
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab2\1.2\1.2\1.2\obj\Debug\1.2.pdb
